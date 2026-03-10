@@ -30,7 +30,7 @@
     }
   ],
   "env": {
-    "VITE_SUPABASE_URL":      "@tsoa_supabase_url",
-    "VITE_SUPABASE_ANON_KEY": "@tsoa_supabase_anon_key"
+    "VITE_SUPABASE_URL":      "https://ktnjkqnmrtokrgqsxbgd.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt0bmprcW5tcnRva3JncXN4YmdkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMwNjg1NjEsImV4cCI6MjA4ODY0NDU2MX0.s8ExQpQh05NCuqWEKTJgNb1WjpYPmkaCKofHysoL2Ms"
   }
 }
